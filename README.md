@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/2084128/TespProject1/_apis/build/status/AliHash.pipelines-java?branchName=master)](https://dev.azure.com/2084128/TespProject1/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
